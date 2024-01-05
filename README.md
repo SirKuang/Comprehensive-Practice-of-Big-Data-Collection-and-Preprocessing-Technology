@@ -1,1 +1,1 @@
-# Comprehensive-Practice-of-Big-Data-Collection-and-Preprocessing-Technology
+# 本程序在Jupyter和Python环境下编写，请在同样的环境下运行
